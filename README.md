@@ -5,7 +5,7 @@ This repository contains research design developed for the project "BEWELL: Can 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [research design Components](#research-design-components)
+2. [Research Design Components](#research-design-components)
 3. [Research Design Methods and Techniques](#research-design-methods-and-techniques)
 4. [Benefits of the Research Design](#benefits-of-the-research-design)
 
@@ -16,7 +16,7 @@ The BEWELL research design aims to explore how AI and wearable technology can en
 **Research Question**: 
 Does the mixed use of user voice input and wearable technology data improve the prediction of sleep quality based on indicators such as physical activities, caffeine/alcohol intake, and screen time?
 
-## research design Components
+## Research Design Components
 
 The research design is structured around several key components:
 
